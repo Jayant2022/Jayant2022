@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayant
-- 👀 I’m interested in Bigdata, Data Analytics, Cloud computing
-- 🌱 I’m currently learning Design and Create Bigdata pipelines using Cloud technologies
+- 👀 I’m working in AI/ML, Bigdata, Data Analytics, Cloud computing
+- 🌱 I’m currently working on Designing and Creating Bigdata pipelines using Cloud technologies
 - 💞️ I’m looking to collaborate on AWS and Azure data pipelines, Spark projects
 - 📫 you can reach me to my email id - anythingforcoding@gmail.com
 
